@@ -64,4 +64,4 @@ Visualize your daily revenue in intuitive charts and compare periods such as thi
 
 ---
 
-© 2025 **FixoLab**. All rights reserved.
+© 2026 **FixoLab**. All rights reserved.
