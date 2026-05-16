@@ -8,7 +8,7 @@
 
 Manage and boost your advertising revenue in real time, with multiple accounts support, from any device.
 
-[![AdMate App Screenshot](https://admate.dev/assets/en-sketch-main.png)](https://admate.dev)
+[![AdMate App Screenshot](https://admate.dev/assets/home/en/three-phones.png)](https://admate.dev)
 
 ---
 
@@ -64,4 +64,4 @@ Visualize your daily revenue in intuitive charts and compare periods such as thi
 
 ---
 
-© 2025 **FixoLab**. All rights reserved.
+© 2026 **FixoLab**. All rights reserved.
