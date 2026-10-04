@@ -10,6 +10,7 @@ Manage and boost your advertising revenue in real time, with multiple accounts s
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/admate-app/id6705137320"><img height="52" src="assets/app-store-badge.svg" alt="Download on the App Store"></a>
+  <a href="https://admate.dev"><img height="52" src="assets/google-play-badge.svg" alt="Get it on Google Play"></a>
 </p>
 
 <p align="center"><a href="https://admate.dev">admate.dev</a></p>
