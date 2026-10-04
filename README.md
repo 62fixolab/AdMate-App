@@ -8,10 +8,11 @@
 
 Manage and boost your advertising revenue in real time, with multiple accounts support, from any device. The dashboard for Google AdMob, AdSense, RevenueCat and App Store Connect.
 
-<p>
-  <a href="https://apps.apple.com/us/app/admate-app/id6705137320">Download on the App Store</a> ·
-  <a href="https://admate.dev">admate.dev</a>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/admate-app/id6705137320"><img height="52" src="assets/app-store-badge.svg" alt="Download on the App Store"></a>
 </p>
+
+<p align="center"><a href="https://admate.dev">admate.dev</a></p>
 
 [![AdMate App Screenshot](Press%20Pack/home/en/three-phones.png)](https://admate.dev)
 
