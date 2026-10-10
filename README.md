@@ -84,6 +84,7 @@ The [`Press Pack`](Press%20Pack) folder contains official images in **20 languag
 | [`gallery/<lang>/`](Press%20Pack/gallery) | 10 framed iPhone screenshots per language |
 | [`home/<lang>/`](Press%20Pack/home) | `phone-angle.png` and `three-phones.png` renders |
 | [`opengraphs/<lang>/`](Press%20Pack/opengraphs) | Social sharing images for the main pages of the website |
+| [`app-store/<lang>/`](Press%20Pack/app-store) | App Store images: `iphone/` (10, iPhone 6.7"), `ipad/` (10, iPad 12.9") and `watch/` (7, Apple Watch Ultra) |
 
 Download everything from the [latest release](https://github.com/62fixolab/AdMate-App/releases/latest).
 
